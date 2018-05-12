@@ -1,4 +1,8 @@
 _repo: Formation-of-the-Union-1750-1829_6767
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hart, Albert Bushnell
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2196
     wikipedia: http://en.wikipedia.org/wiki/Albert_Bushnell_Hart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6767#Formation-of-the-Union-1750-1829
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
